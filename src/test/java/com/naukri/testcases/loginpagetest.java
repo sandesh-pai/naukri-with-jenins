@@ -13,9 +13,6 @@ import config.config;
 public class loginpagetest extends BasePage{
 	
 	
-	
-	
-	
 	@Test
 	public void login()
 	{
