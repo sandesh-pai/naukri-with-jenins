@@ -7,7 +7,7 @@ public class naukriFrameworkConstants {
 	private final static int WAITTIME = 10;
 	
 	
-	private final static String CONFIGPATH = System.getProperty("user.dir")+"/src/test/resources/config/config.properties";
+	private final static String CONFIGPATH = System.getProperty("user.dir")+"/src/main/java/com/naukri/resources/config.properties";
 	
 	
 	public static String getConfigpath() {
