@@ -7,8 +7,9 @@ import com.naukri.pom.MyNaukriPage;
 import com.naukri.pom.jobseekerPage;
 import com.naukri.pom.loginpage;
 import com.naukri.utils.readproperty;
+import com.naukri.resources.*;
 
-import config.config;
+
 
 public class loginpagetest extends BasePage{
 	

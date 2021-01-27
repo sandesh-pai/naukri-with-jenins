@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import com.naukri.utils.readproperty;
 import com.naukri.waitFactories.waitStrategy;
 
-import config.config;
+import com.naukri.resources.config;
 import io.github.bonigarcia.wdm.config.Config;
 
 public final class MyNaukriPage extends basePom{

@@ -10,7 +10,7 @@ import java.util.Properties;
 
 import com.naukri.FrameworkConstants.naukriFrameworkConstants;
 
-import config.config;
+import com.naukri.resources.*;
 
 public final class readproperty {
 
